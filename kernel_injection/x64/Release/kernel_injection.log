@@ -1,0 +1,29 @@
+﻿C:\Users\JustAT3ch\source\repos\kernel_injection\kernel_injection\kernel_injection.vcxproj(113,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\JustAT3ch\source\repos\kernel_injection\kernel_injection\kernel_injection.vcxproj(220,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1896,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building 'kernel_injection' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\kernel_injection.inf
+  Stamping [Version] section with DriverVer=10/03/2021,23.16.29.774
+  kernel_injection.c
+  kernel_injection.vcxproj -> C:\Users\JustAT3ch\source\repos\kernel_injection\x64\Release\kernel_injection.sys
+C:\Users\JustAT3ch\source\repos\kernel_injection\kernel_injection\kernel_injection.vcxproj(113,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\JustAT3ch\source\repos\kernel_injection\kernel_injection\kernel_injection.vcxproj(220,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1896,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\JustAT3ch\source\repos\kernel_injection\x64\Release\kernel_injection.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\JustAT3ch\source\repos\kernel_injection\x64\Release\kernel_injection\kernel_injection.cat
+C:\Users\JustAT3ch\source\repos\kernel_injection\kernel_injection\kernel_injection.vcxproj(113,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\JustAT3ch\source\repos\kernel_injection\kernel_injection\kernel_injection.vcxproj(220,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1896,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\JustAT3ch\source\repos\kernel_injection\x64\Release\kernel_injection\kernel_injection.cat
+  
